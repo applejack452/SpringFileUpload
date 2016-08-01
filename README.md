@@ -8,7 +8,7 @@ DB : MariaDB
 IDE : SpringSTS
 Build : Maven
 
-UI : DropZone.js
+UI : DropZone.js (MIT License)
 
 기능: 
 드래그 앤 드랍
